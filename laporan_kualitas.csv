@@ -1,0 +1,6 @@
+Metrik_Kualitas,Sebelum_Pembersihan,Sesudah_Pembersihan
+Total Baris Data,800,800
+Total Kolom Fitur,19,19
+Jumlah Data Duplikat,0,0
+Jumlah Missing Value (Data Kosong),511,0
+Status Penanganan Outlier,Ditemukan pencilan (outlier) pada beberapa kolom numerik,Telah ditangani menggunakan metode IQR (Interquartile Range) per grup
